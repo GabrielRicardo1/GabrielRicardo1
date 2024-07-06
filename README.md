@@ -1,7 +1,10 @@
-<img align="center" alt="Python" src="https://camo.githubusercontent.com/d323bf92adb96c6b2f1fe6d7a1f4ab7fb8cd328db04cb5d9ce8efbd84a7d7813/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Gabriel+Couto%F0%9F%91%8B;I+am+Brazilian;I'm+18+years+old" alt="Typing SVG" />
+  </a>
+</div>
 
-## Hi, I'm Gabriel Couto. 👋
-### Python developer passionate about technology and innovation. Always seeking new challenges and opportunities to learn and grow.
+## Python developer passionate about technology and innovation. Always seeking new challenges and opportunities to learn and grow.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-couto-ricardo-440847307/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcoutoricardo@gmail.com)
 
