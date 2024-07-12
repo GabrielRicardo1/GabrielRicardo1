@@ -4,7 +4,10 @@
   </a>
 </div>
 
-## Python developer passionate about technology and innovation. Always seeking new challenges and opportunities to learn and grow.
+<div style="display: inline_block"><br/>
+  ## Python developer passionate about technology and innovation. Always seeking new challenges and opportunities to learn and grow.
+   <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-couto-ricardo-440847307/) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gcoutoricardo@gmail.com)
 
