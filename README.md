@@ -5,7 +5,7 @@
 </div>
 
 <div style="display: inline_block"><br/>
-  Python developer passionate about technology and innovation. Always seeking new challenges and opportunities to learn and grow.
+  Beginner Python developer passionate about technology and innovation. Always seeking new challenges and opportunities to learn and grow.
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
