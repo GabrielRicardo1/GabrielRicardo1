@@ -7,9 +7,7 @@
 
 <div style="display: inline_block"><br/>
   Beginner Python developer passionate about technology and innovation. Always seeking new challenges and opportunities to learn and grow.
-   <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
+<img src="https://i.gifer.com/3UXi.gif" width="1050" height="4" alt="GIF Esticado"/>
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielRicardo1&show_icons=true&theme=shadow_red" width="350" alt="Couto GitHub stats" style="margin-right: 30px;"/>
 
