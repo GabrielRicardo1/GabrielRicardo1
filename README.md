@@ -1,8 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+my+name+is+Gabriel+Couto%F0%9F%91%8B;I'm+from+Brazil+🌎;I'm+18+years+old+👨‍💻;Be+Welcome👍" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+my+name+is+Gabriel+Couto%F0%9F%91%8B;I'm+from+Brazil+🌎;I'm+18+years+old+👨‍💻;Be+Welcome👍&color=C00000" alt="Typing SVG" />
   </a>
 </div>
+
 
 <div style="display: inline_block"><br/>
   Beginner Python developer passionate about technology and innovation. Always seeking new challenges and opportunities to learn and grow.
