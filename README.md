@@ -9,7 +9,14 @@
    <img align="center" alt="C" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-![Couto GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRicardo1&show_icons=true&theme=shadow_red) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRicardo1&hide_progress=true)
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielRicardo1&show_icons=true&theme=shadow_red" width="450" alt="Couto GitHub stats" style="margin-right: 40px;"/>
+
+  <img src="https://media.giphy.com/media/WKSQVNPXquWeYXFv3y/giphy.gif" width="150" alt="Programming Red GIF" style="margin: 0 40px; transform: translateY(-20px);"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRicardo1&hide_progress=true&show_icons=true&theme=shadow_red" width="400" alt="Top Langs"/>
+</div>
+
 
 
 ### 📨 contacts:
