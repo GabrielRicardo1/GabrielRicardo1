@@ -5,6 +5,7 @@
 </div>
 
 
+
 <div style="display: inline_block"><br/>
   Beginner Python developer passionate about technology and innovation. Always seeking new challenges and opportunities to learn and grow.
 <img src="https://i.gifer.com/3UXi.gif" width="1050" height="4" alt="GIF Esticado"/>
