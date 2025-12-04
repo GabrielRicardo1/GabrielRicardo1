@@ -9,12 +9,14 @@
 <div style="display: inline_block"><br/>
   Beginner Python developer passionate about technology and innovation. Always seeking new challenges and opportunities to learn and grow.
 <img src="https://i.gifer.com/3UXi.gif" width="1050" height="4" alt="GIF Esticado"/>
-<div style="display: flex; align-items: center;">
+<!--
+  <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielRicardo1&show_icons=true&theme=shadow_red" width="350" alt="Couto GitHub stats" style="margin-right: 30px;"/>
-
+-->
   <img src="https://media.giphy.com/media/WKSQVNPXquWeYXFv3y/giphy.gif" width="150" alt="Programming Red GIF" style="margin: 0 30px; transform: translateY(-20px);"/>
-
+<!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRicardo1&hide_progress=true&show_icons=true&theme=shadow_red" width="320" alt="Top Langs"/>
+  -->
 </div>
 
 
