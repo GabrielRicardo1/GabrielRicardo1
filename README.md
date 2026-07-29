@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gabriel Couto
+# Gabriel Couto Ricardo
 
 **Data & Automation Analyst** — construindo automações, pipelines de dados e dashboards que apoiam decisões de negócio
 
